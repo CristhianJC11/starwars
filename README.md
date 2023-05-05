@@ -5,7 +5,11 @@ Flutter App
 
 ## Screenshots 📸
 
- ![1](https://github.com/CristhianJC11/starwars/blob/main/screenshot/main_screen.png =250x250)   | ![2](https://github.com/CristhianJC11/starwars/blob/main/screenshot/details.png | width=100)   
+ ![1](https://github.com/CristhianJC11/starwars/blob/main/screenshot/main_screen.png)   | ![2](https://github.com/CristhianJC11/starwars/blob/main/screenshot/details.png)   
+ <div>
+    <img src="https://github.com/CristhianJC11/starwars/blob/main/screenshot/main_screen.png" alt="Imagen 1" style="float:left; margin-right:10px;" width="300">
+    <img src="https://github.com/CristhianJC11/starwars/blob/main/screenshot/details.png" alt="Imagen 2" style="float:left; margin-right:10px;" width="300">
+</div>
 
 # Features
 
