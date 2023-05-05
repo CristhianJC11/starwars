@@ -30,4 +30,4 @@ Flutter App
 
 ![1](https://github.com/CristhianJC11/starwars/blob/main/screenshot/mvvm.png)
 
-Download the Apk -> [StarWars.apk](https://github.com/CristhianJC11/starwars/blob/main/apk/starwars.apk)
+Download the Apk -> [StarWars.apk](https://raw.githubusercontent.com/CristhianJC11/starwars/main/apk/starwars.apk)
