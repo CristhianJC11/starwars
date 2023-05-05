@@ -3,6 +3,10 @@
 # StarWars
 Flutter App
 
+## Screenshots 📸
+
+ ![1](https://github.com/CristhianJC11/starwars/blob/main/screenshot/main_screen.png)   | ![2](https://github.com/CristhianJC11/starwars/blob/main/screenshot/details.png)  
+
 # Features
 
 * MVVM architecture implementation
@@ -19,6 +23,8 @@ Flutter App
 * Http: This dependency was used to make HTTP requests and receive responses in a simple and efficient way, configure options such as headers, parameters, authentication, etc.
 * Provider: Provider was used for state management in the app, as well as to optimize the code and improve performance.
 
-# Dependencies
+### Folders
 
-Download the Apk -> T
+![1](https://github.com/CristhianJC11/starwars/blob/main/screenshot/mvvm.png)
+
+Download the Apk -> [StarWars.apk](https://github.com/CristhianJC11/starwars/blob/main/apk/starwars.apk)
