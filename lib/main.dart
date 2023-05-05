@@ -52,6 +52,7 @@ class _MyAppState extends State<MyApp> {
         title: 'Star Wars App',
         theme: themeViewModel.theme,
         home: const HomeScreen(),
+        debugShowCheckedModeBanner: false,
       );
   }
 }
