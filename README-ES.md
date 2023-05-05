@@ -3,7 +3,7 @@
 # StarWars
 Flutter App
 
-Idioma: Español | [English](README-ES.md)
+Idioma: Español | [English](README.md)
 
 ## Capturas de pantalla 📸
 
